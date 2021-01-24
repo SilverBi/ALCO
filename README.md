@@ -45,5 +45,5 @@
 | 2021.01.10 | [퇴사](https://www.acmicpc.net/problem/14501)                |   X  |   O  | 1h 4m 25s  |
 | 2021.01.17 | [과제는 끝나지 않아!](https://www.acmicpc.net/problem/17952) |   X  |   O  | 13m 12s    |
 | 2021.01.24 | [베스킨라빈스 31](https://www.acmicpc.net/problem/20004)     |   X  |   O  | 6m 55s     |
-|            |                                                              |      |      |            |
+| 2021.01.24 | [아우으 우아으이야!](https://www.acmicpc.net/problem/15922)  |   X  |   O  | 15m 24s  |
 |            |                                                              |      |      |            |
